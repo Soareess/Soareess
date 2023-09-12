@@ -26,4 +26,9 @@
 
 <div style="display: inline_block"><br/>>
  <img align="javascript" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-</div>
+</div><br/>
+
+Cursando o segundo período de Sistemas para Internet, apaixonado por tecnologias. 
+
+## Email para contato: 
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](antoniov12465@gmail.com)

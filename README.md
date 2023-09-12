@@ -31,4 +31,4 @@
 Cursando o segundo período de Sistemas para Internet, apaixonado por tecnologias. 
 
 ## Email para contato: 
-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](antoniov12465@gmail.com)
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([antoniov12465@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpccqHcZBQXhGRflCdpcRjHRXjqZQBpFDdQqFFMWvWZsDMJHHDkqSmFsvBLWWglQNmzxsQ)https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpccqHcZBQXhGRflCdpcRjHRXjqZQBpFDdQqFFMWvWZsDMJHHDkqSmFsvBLWWglQNmzxsQ)
